@@ -2,3 +2,4 @@ nama    : Aswatil Hasnah
 matkul  : Cloud Computing
 kelas   : Q
 jk      : Perempuan
+jam kul : Rabu, 19:50 wita
