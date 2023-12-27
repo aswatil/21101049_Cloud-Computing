@@ -1,2 +1,4 @@
 nama    : Aswatil Hasnah
 matkul  : Cloud Computing
+kelas   : Q
+jk      : Perempuan
